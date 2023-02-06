@@ -1,0 +1,12 @@
+.info{
+    width: 300px;
+    &_img{
+        width: 300px;
+        img{
+            width: 100%;
+        }
+    }
+    &_text{
+        text-align: center;
+    }
+}
